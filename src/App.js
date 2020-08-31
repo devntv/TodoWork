@@ -3,6 +3,7 @@ import "./App.css";
 import ManagerTask from "./components/ManagerTask";
 import SearchSortControl from "./components/SearchSortControl";
 import ManagerTaskList from "./components/ManagerTaskList";
+import demo from "./training/demo"
 // import _ from 'lodash';
 
 class App extends Component {
