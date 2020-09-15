@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TodoWork/static/css/main.b268ccff.chunk.css",
+    "main.js": "/TodoWork/static/js/main.d0a69bdb.chunk.js",
+    "main.js.map": "/TodoWork/static/js/main.d0a69bdb.chunk.js.map",
+    "runtime-main.js": "/TodoWork/static/js/runtime-main.1d586108.js",
+    "runtime-main.js.map": "/TodoWork/static/js/runtime-main.1d586108.js.map",
+    "static/js/2.dfafacad.chunk.js": "/TodoWork/static/js/2.dfafacad.chunk.js",
+    "static/js/2.dfafacad.chunk.js.map": "/TodoWork/static/js/2.dfafacad.chunk.js.map",
+    "index.html": "/TodoWork/index.html",
+    "precache-manifest.1052292cc3dae1c8fbb2f93549148691.js": "/TodoWork/precache-manifest.1052292cc3dae1c8fbb2f93549148691.js",
+    "service-worker.js": "/TodoWork/service-worker.js",
+    "static/css/main.b268ccff.chunk.css.map": "/TodoWork/static/css/main.b268ccff.chunk.css.map",
+    "static/js/2.dfafacad.chunk.js.LICENSE.txt": "/TodoWork/static/js/2.dfafacad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d586108.js",
+    "static/js/2.dfafacad.chunk.js",
+    "static/css/main.b268ccff.chunk.css",
+    "static/js/main.d0a69bdb.chunk.js"
+  ]
+}
